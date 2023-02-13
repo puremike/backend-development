@@ -1,0 +1,50 @@
+Courses
+1. A JavaScript Course
+https://www.udemy.com/course/the-complete-javascript-course/
+TypeScript Course: https://www.udemy.com/course/understanding-typescript/
+
+2. A Cloud Certification Course
+AWS Cloud Practitioner - https://www.udemy.com/course/aws-certified-cloud-practitioner-new/
+AWS Certified Developer Associate - https - //www.udemy.com/course/aws-certified-developer-associate-dva-c01/
+AWS Certified SysOps Administrator Associate - https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/
+AWS Certified DevOps Engineer Professional - https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/
+AWS Solutions Architect - https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
+
+
+Azure AZ-900 - https://www.udemy.com/course/az900-azure/
+Azure AZ-104 - https://www.udemy.com/course/70533-azure/
+
+Google - https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/
+
+3. A 100 Days of X Course
+Python - https://geni.us/n80Kf
+JavaScript - https://geni.us/TyAC
+Data Science - https://geni.us/VguVVp
+
+4. A Linux Course
+Course - https://geni.us/gbcU
+
+5. An Algorithm/Coding Interview Course
+JavaScript - https://geni.us/WRK31o9
+Python - https://geni.us/3LC9C5C
+
+6. An API Design Course
+NodeJs - https://geni.us/wu9qk
+.NET - https://geni.us/y2H3B
+
+7. A SQL Course
+Course - https://geni.us/KRE0
+
+8. A Clean Code Course
+Course 1 - https://geni.us/Z8yy
+Course 2 - https://geni.us/UYduHpz
+
+9. A "I Want To Be a Senior Dev" Course
+Course 1 - https://geni.us/WLN5p
+Course 2 - https://geni.us/IW7V6D4
+
+10 A "I Didn't Get A Computer Science Degree Course"
+A+ Core 1 - https://geni.us/0UIw
+A+ Core 2 - https://geni.us/4dFqqmU
+Network+ - https://geni.us/4L1g
+Security+ - https://geni.us/KaWhOB
