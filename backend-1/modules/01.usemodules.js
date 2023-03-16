@@ -2,8 +2,11 @@
 
 const getName = require("./02.nameutils");
 const isSquared = require("./03.issquaredutils");
+const checkEvenOrOdd = require("./04checkevenodd");
 
 getName("Sandra", "Bullock");
 getName("Michael", "Egbinola");
 
 isSquared(81);
+
+checkEvenOrOdd(9);
